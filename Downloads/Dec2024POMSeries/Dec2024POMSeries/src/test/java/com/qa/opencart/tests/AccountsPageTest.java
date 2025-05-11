@@ -35,7 +35,7 @@ public class AccountsPageTest extends BaseTest{
 	
 	@Description("checking open cart Acc page title...")
 	@Severity(SeverityLevel.MINOR)
-	@Owner("Naveen")
+	@Owner("Naveen K Only in Feature")
 	@Test
 	public void accPageTitleTest() {
 		Assert.assertEquals(accPage.getAccPageTitle(), HOME_PAGE_TITLE) ;
