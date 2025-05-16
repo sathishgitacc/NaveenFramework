@@ -1,0 +1,22 @@
+2025-05-16 19:17:22 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\LENOVO\Downloads\Dec2024POMSeries\Dec2024POMSeries\src\test\resources\testrunners\testng_regression.xml"
+2025-05-16 19:17:23 DEBUG ChainPluginService:122 - Found configuration entry chaintest.generator.email.enabled, will use chaintest.generator.email.class-name to resolve class
+2025-05-16 19:17:23 DEBUG ChainPluginService:122 - Found configuration entry chaintest.generator.simple.enabled, will use chaintest.generator.simple.class-name to resolve class
+2025-05-16 19:17:23 DEBUG FileGenerator:73 - Loading template index.ftl for class class com.aventstack.chaintest.generator.ChainTestEmailGenerator with basePackagePath email/
+2025-05-16 19:17:24 DEBUG FileGenerator:73 - Loading template index.ftl for class class com.aventstack.chaintest.generator.ChainTestSimpleGenerator with basePackagePath simple
+2025-05-16 19:17:24 WARN  DriverFactory:109 - env is null, hence running the tests on QA env by default...
+2025-05-16 19:17:24 WARN  DriverFactory:109 - env is null, hence running the tests on QA env by default...
+2025-05-16 19:17:24 INFO  DriverFactory:46 - properties: {headless=false, highlight=false, password=Test@123, browser=chrome, incognito=false, url=https://naveenautomationlabs.com/opencart/index.php?route=account/login, username=swanand@test.com}
+2025-05-16 19:17:24 INFO  DriverFactory:46 - properties: {headless=false, highlight=false, password=Test@123, browser=firefox, incognito=false, url=https://naveenautomationlabs.com/opencart/index.php?route=account/login, username=swanand@test.com}
+2025-05-16 19:17:24 INFO  DriverFactory:50 - browser name : chrome
+2025-05-16 19:17:24 INFO  DriverFactory:50 - browser name : firefox
+2025-05-16 19:17:24 WARN  DriverFactory:109 - env is null, hence running the tests on QA env by default...
+2025-05-16 19:17:24 INFO  DriverFactory:46 - properties: {headless=false, highlight=false, password=Test@123, browser=chrome, incognito=false, url=https://naveenautomationlabs.com/opencart/index.php?route=account/login, username=swanand@test.com}
+2025-05-16 19:17:24 INFO  DriverFactory:50 - browser name : chrome
+2025-05-16 19:17:31 INFO  AccountsPage:60 - Acc page headers: [My Account, My Orders, My Affiliate Account, Newsletter]
+2025-05-16 19:17:31 INFO  AccountsPage:41 - home page title: My Account
+2025-05-16 19:17:32 INFO  AccountsPage:41 - home page title: My Account
+2025-05-16 19:17:32 INFO  AccountsPage:48 - home page url: https://naveenautomationlabs.com/opencart/index.php?route=account/account
+2025-05-16 19:17:32 INFO  BaseTest:82 - ----closing the browser----
+2025-05-16 19:17:32 INFO  BaseTest:82 - ----closing the browser----
+2025-05-16 19:17:33 INFO  AccountsPage:67 - search key: macbook
+2025-05-16 19:17:35 INFO  BaseTest:82 - ----closing the browser----
